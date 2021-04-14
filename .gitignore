@@ -132,3 +132,7 @@ dmypy.json
 .DS_Store
 googleplaystore
 DogsCats
+1billion_word_vectors
+1billion_word_vectors.*
+SarcasmHeadlines
+SarcasmModel.zip
